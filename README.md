@@ -1,2 +1,2 @@
 # NJUST-2024SummerTermProject
-2024暑期课设
+NJUST-软件课程设计（Ⅰ）-暑期小学期课设
